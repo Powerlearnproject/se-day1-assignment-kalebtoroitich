@@ -6,11 +6,24 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
+It's a field focused in designing,developing,testing and maintaining software systems in astructured way, focusing in on scalebility reliability and maintawinability.It also emphasizes on methadologies processes and tools to ensure quality and efficiency.
+
+***importance of technology inthe industry to day**
+It plays the crucial of enabling the creation of software applications and systems that power varios key aspect of modern living from healthcare to commerce 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
+-the development of programming languages this provided a better form of communication to the by humans avoiding the complex and ureliale communiction through assembly
+-establishment of software engineering as a discipline this truly proved to be milstone in software engineering as there was introduction of standardized key concept for every software developed they were scelability reliability and maintawinability.
 
 List and briefly explain the phases of the Software Development Life Cycle.
+- design by identifying goals and the scope of the project at hand
+- requirements analysis by gathering and analizing needs of the stake holders what the software needs to accomplish
+- design by creating architecture and blue print,  data models, and interfaces needed for the software
+- implementation writting the actual code of the software based on the provided design specifications
+- Testing this is the checking for bugs ,response time and if the software perfoms the work its intenden to perform
+- Deploymnet this is the releasing o fthe soft ware to the users and through user training and installation of the software
+- Maintenance- providing suppport and fixing bugs & providing update to the system
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
