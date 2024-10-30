@@ -3,7 +3,7 @@
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
-
+ 
 Explain what software engineering is and discuss its importance in the technology industry.
 
 It's a field focused in designing,developing,testing and maintaining software systems in astructured way, focusing in on scalebility reliability and maintawinability.It also emphasizes on methadologies processes and tools to ensure quality and efficiency.
