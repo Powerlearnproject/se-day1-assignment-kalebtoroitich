@@ -31,8 +31,19 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+**Software Developer-- Software developers design, code, test, and maintain software applications. They collaborate with other team members to understand requirements, propose solutions, and troubleshoot code issues. Developers also conduct code reviews, integrate feedback, and continuously enhance software to improve functionality and performance 
+
+**Quality assuarance Engineer -- QA engineers ensure software meets quality standards before release. They design and execute tests to detect bugs and performance issues, collaborating closely with developers to resolve them. QA engineers monitor each stage of the development lifecycle and verify that software behaves as expected, documenting test results and recommending improvements as necessary
+
+**Project Manager
+Project managers oversee project timelines, budgets, and team coordination. They define project goals, allocate resources, and monitor progress, ensuring that projects are on track and meet client expectations. By communicating with stakeholders and resolving issues, project managers help the team deliver quality software on time and within budget
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
+IDEs-  are essential tools for developers as they streamline the coding process by providing a comprehensive environment for writing, compiling, and debugging code. IDEs often include features like syntax highlighting, auto-completion, and code refactoring, which reduce errors and speed up development. For example, Visual Studio Code and IntelliJ IDEA are popular IDEs that support multiple programming languages and offer integrated tools for efficient code management
+
+Version Control Systems (VCS)  --- they play a critical role in tracking changes and managing collaborative work. VCS allows multiple developers to work on the same codebase without conflicts by managing code versions and history, simplifying tasks like code merging and branching. Git (with platforms like GitHub or GitLab) is a widely used VCS that supports distributed workflows, making it easier for teams to collaborate and roll back to previous versions if issues arise
+
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
